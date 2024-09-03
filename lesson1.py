@@ -26,3 +26,6 @@ print("Your favorite food is,", food)
 favorite_animal= input ("What's your favorite animal?")
 print("Your favorite animal is" , favorite_animal , "that's cool!" )
 #the plus sign is used to cocentrate strings
+
+
+# lets do some practice
